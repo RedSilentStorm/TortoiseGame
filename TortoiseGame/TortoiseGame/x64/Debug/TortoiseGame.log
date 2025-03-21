@@ -1,0 +1,6 @@
+﻿  TortoiseGame.c
+C:\Users\Acme\Desktop\work\programming\vs\TortoiseGame\TortoiseGame\TortoiseGame.c(50,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Acme\Desktop\work\programming\vs\TortoiseGame\TortoiseGame\TortoiseGame.c(63,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acme\Desktop\work\programming\vs\TortoiseGame\TortoiseGame\TortoiseGame.c(64,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acme\Desktop\work\programming\vs\TortoiseGame\TortoiseGame\TortoiseGame.c(52,9): warning C4101: 'p': unreferenced local variable
+  TortoiseGame.vcxproj -> C:\Users\Acme\Desktop\work\programming\vs\TortoiseGame\x64\Debug\TortoiseGame.exe
